@@ -1,2 +1,2 @@
 # IPC-Semaphores-
-Using Semaphores And  Between Two Process
+Using Semaphores  Between Two Process
